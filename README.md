@@ -37,8 +37,8 @@ As principais ferramentas usadas na construção do projeto:
 ## Passo a passo
 
 ### 1. Clone o repositório
-git clone https://github.com/brenotoyo/ExtratorDeFilmes.git
-cd ExtratorDeFilmes
+- git clone https://github.com/brenotoyo/ExtratorDeFilmes.git
+- cd ExtratorDeFilmes
 
 ### 2. (Opcional) Crie um ambiente virtual
 - python -m venv venv
