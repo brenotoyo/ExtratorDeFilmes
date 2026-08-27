@@ -41,12 +41,12 @@ git clone https://github.com/brenotoyo/ExtratorDeFilmes.git
 cd ExtratorDeFilmes
 
 ### 2. (Opcional) Crie um ambiente virtual
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
+- python -m venv venv
+- source venv/bin/activate   # Linux/Mac
+- venv\Scripts\activate      # Windows
 
 ### 3. Instale as dependências
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ### 4. Rode o app
-streamlit run app.py
+- streamlit run app.py
