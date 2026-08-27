@@ -25,17 +25,17 @@ As principais ferramentas usadas na construção do projeto:
 - `requests`
 - `beautifulsoup4`
 
-### Passo a passo
-# 1. Clone o repositório
+## Passo a passo
+### 1. Clone o repositório
 git clone https://github.com/brenotoyo/ExtratorDeFilmes
 
-# 2. (Opcional) Crie um ambiente virtual
+### 2. (Opcional) Crie um ambiente virtual
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 
-# 3. Instale as dependências
+### 3. Instale as dependências
 pip install requests beautifulsoup4
 
-# 4. Rode o script
+### 4. Rode o script
 python main.py
