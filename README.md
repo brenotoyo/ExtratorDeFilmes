@@ -22,6 +22,9 @@ As principais ferramentas usadas na construção do projeto:
 - [x] Interface web interativa.
 - [x] Exportação e download dos dados em arquivo CSV.
 
+## 🌐 Demo
+Acesse o app publicado: [https://kr589r4zclanrrgevfluyd.streamlit.app]
+
 ## 📦 Como rodar localmente
 
 ### Pré-requisitos
